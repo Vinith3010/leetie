@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 14 Solved
+## Progress Summary: 15 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -15,6 +15,7 @@
 | ipo | IPO | Hard | java | [Problem](https://leetcode.com/problems/ipo/) | [Solution](./solutions/Hard/0502-ipo/solution.java) |
 | network-delay-time | Network Delay Time | Medium | java | [Problem](https://leetcode.com/problems/network-delay-time/) | [Solution](./solutions/Medium/0743-network-delay-time/solution.java) |
 | smallest-missing-multiple-of-k | Smallest Missing Multiple of K | Easy | java | [Problem](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | [Solution](./solutions/Easy/3718-smallest-missing-multiple-of-k/solution.java) |
+| sort-list | Sort List | Medium | java | [Problem](https://leetcode.com/problems/sort-list/) | [Solution](./solutions/Medium/0148-sort-list/solution.java) |
 | spiral-matrix-ii | Spiral Matrix II | Medium | java | [Problem](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution](./solutions/Medium/0059-spiral-matrix-ii/solution.java) |
 | sum-of-left-leaves | Sum of Left Leaves | Easy | java | [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution](./solutions/Easy/0404-sum-of-left-leaves/solution.java) |
 | third-maximum-number | Third Maximum Number | Easy | java | [Problem](https://leetcode.com/problems/third-maximum-number/) | [Solution](./solutions/Easy/0414-third-maximum-number/solution.java) |
