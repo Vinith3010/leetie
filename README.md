@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 18 Solved
+## Progress Summary: 19 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -15,6 +15,7 @@
 | fraction-addition-and-subtraction | Fraction Addition and Subtraction | Medium | java | [Problem](https://leetcode.com/problems/fraction-addition-and-subtraction/) | [Solution](./solutions/Medium/0592-fraction-addition-and-subtraction/solution.java) |
 | insert-delete-getrandom-o1 | Insert Delete GetRandom O(1) | Medium | java | [Problem](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](./solutions/Medium/0380-insert-delete-getrandom-o1/solution.java) |
 | ipo | IPO | Hard | java | [Problem](https://leetcode.com/problems/ipo/) | [Solution](./solutions/Hard/0502-ipo/solution.java) |
+| linked-list-random-node | Linked List Random Node | Medium | java | [Problem](https://leetcode.com/problems/linked-list-random-node/) | [Solution](./solutions/Medium/0382-linked-list-random-node/solution.java) |
 | maximum-product-subarray | Maximum Product Subarray | Medium | java | [Problem](https://leetcode.com/problems/maximum-product-subarray/) | [Solution](./solutions/Medium/0152-maximum-product-subarray/solution.java) |
 | network-delay-time | Network Delay Time | Medium | java | [Problem](https://leetcode.com/problems/network-delay-time/) | [Solution](./solutions/Medium/0743-network-delay-time/solution.java) |
 | smallest-missing-multiple-of-k | Smallest Missing Multiple of K | Easy | java | [Problem](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | [Solution](./solutions/Easy/3718-smallest-missing-multiple-of-k/solution.java) |
