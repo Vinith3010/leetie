@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 31 Solved
+## Progress Summary: 32 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -15,6 +15,7 @@
 | delete-columns-to-make-sorted | Delete Columns to Make Sorted | Easy | java | [Problem](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [Solution](./solutions/Easy/0944-delete-columns-to-make-sorted/solution.java) |
 | di-string-match | DI String Match | Easy | java | [Problem](https://leetcode.com/problems/di-string-match/) | [Solution](./solutions/Easy/0942-di-string-match/solution.java) |
 | elimination-game | Elimination Game | Medium | java | [Problem](https://leetcode.com/problems/elimination-game/) | [Solution](./solutions/Medium/0390-elimination-game/solution.java) |
+| find-common-characters | Find Common Characters | Easy | java | [Problem](https://leetcode.com/problems/find-common-characters/) | [Solution](./solutions/Easy/1002-find-common-characters/solution.java) |
 | find-minimum-in-rotated-sorted-array | Find Minimum in Rotated Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](./solutions/Medium/0153-find-minimum-in-rotated-sorted-array/solution.java) |
 | find-the-town-judge | Find the Town Judge | Easy | java | [Problem](https://leetcode.com/problems/find-the-town-judge/) | [Solution](./solutions/Easy/0997-find-the-town-judge/solution.java) |
 | fraction-addition-and-subtraction | Fraction Addition and Subtraction | Medium | java | [Problem](https://leetcode.com/problems/fraction-addition-and-subtraction/) | [Solution](./solutions/Medium/0592-fraction-addition-and-subtraction/solution.java) |
