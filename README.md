@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 47 Solved
+## Progress Summary: 48 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -42,6 +42,7 @@
 | serialize-and-deserialize-bst | Serialize and Deserialize BST | Medium | java | [Problem](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [Solution](./solutions/Medium/0449-serialize-and-deserialize-bst/solution.java) |
 | shortest-distance-to-a-character | Shortest Distance to a Character | Easy | java | [Problem](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Solution](./solutions/Easy/0821-shortest-distance-to-a-character/solution.java) |
 | smallest-missing-multiple-of-k | Smallest Missing Multiple of K | Easy | java | [Problem](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | [Solution](./solutions/Easy/3718-smallest-missing-multiple-of-k/solution.java) |
+| sort-characters-by-frequency | Sort Characters By Frequency | Medium | java | [Problem](https://leetcode.com/problems/sort-characters-by-frequency/) | [Solution](./solutions/Medium/0451-sort-characters-by-frequency/solution.java) |
 | sort-list | Sort List | Medium | java | [Problem](https://leetcode.com/problems/sort-list/) | [Solution](./solutions/Medium/0148-sort-list/solution.java) |
 | spiral-matrix-ii | Spiral Matrix II | Medium | java | [Problem](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution](./solutions/Medium/0059-spiral-matrix-ii/solution.java) |
 | squares-of-a-sorted-array | Squares of a Sorted Array | Easy | java | [Problem](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Solution](./solutions/Easy/0977-squares-of-a-sorted-array/solution.java) |
