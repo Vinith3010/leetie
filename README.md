@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 113 Solved
+## Progress Summary: 114 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -31,6 +31,7 @@
 | cousins-in-binary-tree | Cousins in Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/cousins-in-binary-tree/) | [Solution](./solutions/Easy/0993-cousins-in-binary-tree/solution.java) |
 | create-target-array-in-the-given-order | Create Target Array in the Given Order | Easy | java | [Problem](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [Solution](./solutions/Easy/1389-create-target-array-in-the-given-order/solution.java) |
 | delete-columns-to-make-sorted | Delete Columns to Make Sorted | Easy | java | [Problem](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [Solution](./solutions/Easy/0944-delete-columns-to-make-sorted/solution.java) |
+| destination-city | Destination City | Easy | java | [Problem](https://leetcode.com/problems/destination-city/) | [Solution](./solutions/Easy/1436-destination-city/solution.java) |
 | di-string-match | DI String Match | Easy | java | [Problem](https://leetcode.com/problems/di-string-match/) | [Solution](./solutions/Easy/0942-di-string-match/solution.java) |
 | diagonal-traverse | Diagonal Traverse | Medium | java | [Problem](https://leetcode.com/problems/diagonal-traverse/) | [Solution](./solutions/Medium/0498-diagonal-traverse/solution.java) |
 | divisor-game | Divisor Game | Easy | java | [Problem](https://leetcode.com/problems/divisor-game/) | [Solution](./solutions/Easy/1025-divisor-game/solution.java) |
