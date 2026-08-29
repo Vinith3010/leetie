@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 71 Solved
+## Progress Summary: 72 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -40,6 +40,7 @@
 | lexicographical-numbers | Lexicographical Numbers | Medium | java | [Problem](https://leetcode.com/problems/lexicographical-numbers/) | [Solution](./solutions/Medium/0386-lexicographical-numbers/solution.java) |
 | lfu-cache | LFU Cache | Hard | java | [Problem](https://leetcode.com/problems/lfu-cache/) | [Solution](./solutions/Hard/0460-lfu-cache/solution.java) |
 | linked-list-random-node | Linked List Random Node | Medium | java | [Problem](https://leetcode.com/problems/linked-list-random-node/) | [Solution](./solutions/Medium/0382-linked-list-random-node/solution.java) |
+| longest-palindromic-subsequence | Longest Palindromic Subsequence | Medium | java | [Problem](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Solution](./solutions/Medium/0516-longest-palindromic-subsequence/solution.java) |
 | magical-string | Magical String | Medium | java | [Problem](https://leetcode.com/problems/magical-string/) | [Solution](./solutions/Medium/0481-magical-string/solution.java) |
 | matchsticks-to-square | Matchsticks to Square | Medium | java | [Problem](https://leetcode.com/problems/matchsticks-to-square/) | [Solution](./solutions/Medium/0473-matchsticks-to-square/solution.java) |
 | matrix-cells-in-distance-order | Matrix Cells in Distance Order | Easy | java | [Problem](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [Solution](./solutions/Easy/1030-matrix-cells-in-distance-order/solution.java) |
