@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 114 Solved
+## Progress Summary: 115 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -16,6 +16,7 @@
 | binary-prefix-divisible-by-5 | Binary Prefix Divisible By 5 | Easy | java | [Problem](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Solution](./solutions/Easy/1018-binary-prefix-divisible-by-5/solution.java) |
 | binary-tree-level-order-traversal-ii | Binary Tree Level Order Traversal II | Medium | java | [Problem](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Solution](./solutions/Medium/0107-binary-tree-level-order-traversal-ii/solution.java) |
 | brick-wall | Brick Wall | Medium | java | [Problem](https://leetcode.com/problems/brick-wall/) | [Solution](./solutions/Medium/0554-brick-wall/solution.java) |
+| check-if-all-1s-are-at-least-length-k-places-away | Check If All 1's Are at Least Length K Places Away | Easy | java | [Problem](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [Solution](./solutions/Easy/1437-check-if-all-1s-are-at-least-length-k-places-away/solution.java) |
 | circular-array-loop | Circular Array Loop | Medium | java | [Problem](https://leetcode.com/problems/circular-array-loop/) | [Solution](./solutions/Medium/0457-circular-array-loop/solution.java) |
 | coin-change-ii | Coin Change II | Medium | java | [Problem](https://leetcode.com/problems/coin-change-ii/) | [Solution](./solutions/Medium/0518-coin-change-ii/solution.java) |
 | complement-of-base-10-integer | Complement of Base 10 Integer | Easy | java | [Problem](https://leetcode.com/problems/complement-of-base-10-integer/) | [Solution](./solutions/Easy/1009-complement-of-base-10-integer/solution.java) |
