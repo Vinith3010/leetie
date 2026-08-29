@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 63 Solved
+## Progress Summary: 64 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -52,6 +52,7 @@
 | predict-the-winner | Predict the Winner | Medium | java | [Problem](https://leetcode.com/problems/predict-the-winner/) | [Solution](./solutions/Medium/0486-predict-the-winner/solution.java) |
 | remove-all-adjacent-duplicates-in-string | Remove All Adjacent Duplicates In String | Easy | java | [Problem](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Solution](./solutions/Easy/1047-remove-all-adjacent-duplicates-in-string/solution.java) |
 | remove-outermost-parentheses | Remove Outermost Parentheses | Easy | java | [Problem](https://leetcode.com/problems/remove-outermost-parentheses/) | [Solution](./solutions/Easy/1021-remove-outermost-parentheses/solution.java) |
+| reverse-pairs | Reverse Pairs | Hard | java | [Problem](https://leetcode.com/problems/reverse-pairs/) | [Solution](./solutions/Hard/0493-reverse-pairs/solution.java) |
 | serialize-and-deserialize-bst | Serialize and Deserialize BST | Medium | java | [Problem](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [Solution](./solutions/Medium/0449-serialize-and-deserialize-bst/solution.java) |
 | shortest-distance-to-a-character | Shortest Distance to a Character | Easy | java | [Problem](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Solution](./solutions/Easy/0821-shortest-distance-to-a-character/solution.java) |
 | smallest-good-base | Smallest Good Base | Hard | java | [Problem](https://leetcode.com/problems/smallest-good-base/) | [Solution](./solutions/Hard/0483-smallest-good-base/solution.java) |
