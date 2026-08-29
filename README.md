@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 100 Solved
+## Progress Summary: 101 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -42,6 +42,7 @@
 | find-the-town-judge | Find the Town Judge | Easy | java | [Problem](https://leetcode.com/problems/find-the-town-judge/) | [Solution](./solutions/Easy/0997-find-the-town-judge/solution.java) |
 | fraction-addition-and-subtraction | Fraction Addition and Subtraction | Medium | java | [Problem](https://leetcode.com/problems/fraction-addition-and-subtraction/) | [Solution](./solutions/Medium/0592-fraction-addition-and-subtraction/solution.java) |
 | freedom-trail | Freedom Trail | Hard | java | [Problem](https://leetcode.com/problems/freedom-trail/) | [Solution](./solutions/Hard/0514-freedom-trail/solution.java) |
+| generate-a-string-with-characters-that-have-odd-counts | Generate a String With Characters That Have Odd Counts | Easy | java | [Problem](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [Solution](./solutions/Easy/1374-generate-a-string-with-characters-that-have-odd-counts/solution.java) |
 | generate-random-point-in-a-circle | Generate Random Point in a Circle | Medium | java | [Problem](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [Solution](./solutions/Medium/0478-generate-random-point-in-a-circle/solution.java) |
 | heaters | Heaters | Medium | java | [Problem](https://leetcode.com/problems/heaters/) | [Solution](./solutions/Medium/0475-heaters/solution.java) |
 | increasing-decreasing-string | Increasing Decreasing String | Easy | java | [Problem](https://leetcode.com/problems/increasing-decreasing-string/) | [Solution](./solutions/Easy/1370-increasing-decreasing-string/solution.java) |
