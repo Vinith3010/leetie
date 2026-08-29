@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 92 Solved
+## Progress Summary: 93 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -64,6 +64,7 @@
 | most-frequent-subtree-sum | Most Frequent Subtree Sum | Medium | java | [Problem](https://leetcode.com/problems/most-frequent-subtree-sum/) | [Solution](./solutions/Medium/0508-most-frequent-subtree-sum/solution.java) |
 | n-repeated-element-in-size-2n-array | N-Repeated Element in Size 2N Array | Easy | java | [Problem](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Solution](./solutions/Easy/0961-n-repeated-element-in-size-2n-array/solution.java) |
 | network-delay-time | Network Delay Time | Medium | java | [Problem](https://leetcode.com/problems/network-delay-time/) | [Solution](./solutions/Medium/0743-network-delay-time/solution.java) |
+| next-greater-element-iii | Next Greater Element III | Medium | java | [Problem](https://leetcode.com/problems/next-greater-element-iii/) | [Solution](./solutions/Medium/0556-next-greater-element-iii/solution.java) |
 | non-decreasing-subsequences | Non-decreasing Subsequences | Medium | java | [Problem](https://leetcode.com/problems/non-decreasing-subsequences/) | [Solution](./solutions/Medium/0491-non-decreasing-subsequences/solution.java) |
 | number-of-boomerangs | Number of Boomerangs | Medium | java | [Problem](https://leetcode.com/problems/number-of-boomerangs/) | [Solution](./solutions/Medium/0447-number-of-boomerangs/solution.java) |
 | ones-and-zeroes | Ones and Zeroes | Medium | java | [Problem](https://leetcode.com/problems/ones-and-zeroes/) | [Solution](./solutions/Medium/0474-ones-and-zeroes/solution.java) |
