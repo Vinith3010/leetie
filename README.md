@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 105 Solved
+## Progress Summary: 106 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -39,6 +39,7 @@
 | find-bottom-left-tree-value | Find Bottom Left Tree Value | Medium | java | [Problem](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Solution](./solutions/Medium/0513-find-bottom-left-tree-value/solution.java) |
 | find-common-characters | Find Common Characters | Easy | java | [Problem](https://leetcode.com/problems/find-common-characters/) | [Solution](./solutions/Easy/1002-find-common-characters/solution.java) |
 | find-largest-value-in-each-tree-row | Find Largest Value in Each Tree Row | Medium | java | [Problem](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Solution](./solutions/Medium/0515-find-largest-value-in-each-tree-row/solution.java) |
+| find-lucky-integer-in-an-array | Find Lucky Integer in an Array | Easy | java | [Problem](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [Solution](./solutions/Easy/1394-find-lucky-integer-in-an-array/solution.java) |
 | find-minimum-in-rotated-sorted-array | Find Minimum in Rotated Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](./solutions/Medium/0153-find-minimum-in-rotated-sorted-array/solution.java) |
 | find-the-closest-palindrome | Find the Closest Palindrome | Hard | java | [Problem](https://leetcode.com/problems/find-the-closest-palindrome/) | [Solution](./solutions/Hard/0564-find-the-closest-palindrome/solution.java) |
 | find-the-distance-value-between-two-arrays | Find the Distance Value Between Two Arrays | Easy | java | [Problem](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [Solution](./solutions/Easy/1385-find-the-distance-value-between-two-arrays/solution.java) |
