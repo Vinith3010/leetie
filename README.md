@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 119 Solved
+## Progress Summary: 120 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -39,6 +39,7 @@
 | divisor-game | Divisor Game | Easy | java | [Problem](https://leetcode.com/problems/divisor-game/) | [Solution](./solutions/Easy/1025-divisor-game/solution.java) |
 | elimination-game | Elimination Game | Medium | java | [Problem](https://leetcode.com/problems/elimination-game/) | [Solution](./solutions/Medium/0390-elimination-game/solution.java) |
 | encode-and-decode-tinyurl | Encode and Decode TinyURL | Medium | java | [Problem](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Solution](./solutions/Medium/0535-encode-and-decode-tinyurl/solution.java) |
+| final-prices-with-a-special-discount-in-a-shop | Final Prices With a Special Discount in a Shop | Easy | java | [Problem](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [Solution](./solutions/Easy/1475-final-prices-with-a-special-discount-in-a-shop/solution.java) |
 | find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree | Find a Corresponding Node of a Binary Tree in a Clone of That Tree | Easy | mysql | [Problem](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | [Solution](./solutions/Easy/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/solution.sql) |
 | find-bottom-left-tree-value | Find Bottom Left Tree Value | Medium | java | [Problem](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Solution](./solutions/Medium/0513-find-bottom-left-tree-value/solution.java) |
 | find-common-characters | Find Common Characters | Easy | java | [Problem](https://leetcode.com/problems/find-common-characters/) | [Solution](./solutions/Easy/1002-find-common-characters/solution.java) |
