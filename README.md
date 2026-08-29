@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 51 Solved
+## Progress Summary: 52 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -40,6 +40,7 @@
 | network-delay-time | Network Delay Time | Medium | java | [Problem](https://leetcode.com/problems/network-delay-time/) | [Solution](./solutions/Medium/0743-network-delay-time/solution.java) |
 | number-of-boomerangs | Number of Boomerangs | Medium | java | [Problem](https://leetcode.com/problems/number-of-boomerangs/) | [Solution](./solutions/Medium/0447-number-of-boomerangs/solution.java) |
 | partition-array-into-three-parts-with-equal-sum | Partition Array Into Three Parts With Equal Sum | Easy | java | [Problem](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [Solution](./solutions/Easy/1013-partition-array-into-three-parts-with-equal-sum/solution.java) |
+| poor-pigs | Poor Pigs | Hard | java | [Problem](https://leetcode.com/problems/poor-pigs/) | [Solution](./solutions/Hard/0458-poor-pigs/solution.java) |
 | remove-all-adjacent-duplicates-in-string | Remove All Adjacent Duplicates In String | Easy | java | [Problem](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Solution](./solutions/Easy/1047-remove-all-adjacent-duplicates-in-string/solution.java) |
 | remove-outermost-parentheses | Remove Outermost Parentheses | Easy | java | [Problem](https://leetcode.com/problems/remove-outermost-parentheses/) | [Solution](./solutions/Easy/1021-remove-outermost-parentheses/solution.java) |
 | serialize-and-deserialize-bst | Serialize and Deserialize BST | Medium | java | [Problem](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [Solution](./solutions/Medium/0449-serialize-and-deserialize-bst/solution.java) |
