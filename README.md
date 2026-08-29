@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 112 Solved
+## Progress Summary: 113 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -70,6 +70,7 @@
 | matrix-cells-in-distance-order | Matrix Cells in Distance Order | Easy | java | [Problem](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [Solution](./solutions/Easy/1030-matrix-cells-in-distance-order/solution.java) |
 | maximize-sum-of-array-after-k-negations | Maximize Sum Of Array After K Negations | Easy | java | [Problem](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | [Solution](./solutions/Easy/1005-maximize-sum-of-array-after-k-negations/solution.java) |
 | maximum-product-subarray | Maximum Product Subarray | Medium | java | [Problem](https://leetcode.com/problems/maximum-product-subarray/) | [Solution](./solutions/Medium/0152-maximum-product-subarray/solution.java) |
+| maximum-score-after-splitting-a-string | Maximum Score After Splitting a String | Easy | java | [Problem](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Solution](./solutions/Easy/1422-maximum-score-after-splitting-a-string/solution.java) |
 | minimum-moves-to-equal-array-elements | Minimum Moves to Equal Array Elements | Medium | java | [Problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Solution](./solutions/Medium/0453-minimum-moves-to-equal-array-elements/solution.java) |
 | minimum-subsequence-in-non-increasing-order | Minimum Subsequence in Non-Increasing Order | Easy | java | [Problem](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [Solution](./solutions/Easy/1403-minimum-subsequence-in-non-increasing-order/solution.java) |
 | minimum-time-difference | Minimum Time Difference | Medium | java | [Problem](https://leetcode.com/problems/minimum-time-difference/) | [Solution](./solutions/Medium/0539-minimum-time-difference/solution.java) |
