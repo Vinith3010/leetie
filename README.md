@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 83 Solved
+## Progress Summary: 84 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -28,6 +28,7 @@
 | diagonal-traverse | Diagonal Traverse | Medium | java | [Problem](https://leetcode.com/problems/diagonal-traverse/) | [Solution](./solutions/Medium/0498-diagonal-traverse/solution.java) |
 | divisor-game | Divisor Game | Easy | java | [Problem](https://leetcode.com/problems/divisor-game/) | [Solution](./solutions/Easy/1025-divisor-game/solution.java) |
 | elimination-game | Elimination Game | Medium | java | [Problem](https://leetcode.com/problems/elimination-game/) | [Solution](./solutions/Medium/0390-elimination-game/solution.java) |
+| encode-and-decode-tinyurl | Encode and Decode TinyURL | Medium | java | [Problem](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Solution](./solutions/Medium/0535-encode-and-decode-tinyurl/solution.java) |
 | find-bottom-left-tree-value | Find Bottom Left Tree Value | Medium | java | [Problem](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Solution](./solutions/Medium/0513-find-bottom-left-tree-value/solution.java) |
 | find-common-characters | Find Common Characters | Easy | java | [Problem](https://leetcode.com/problems/find-common-characters/) | [Solution](./solutions/Easy/1002-find-common-characters/solution.java) |
 | find-largest-value-in-each-tree-row | Find Largest Value in Each Tree Row | Medium | java | [Problem](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Solution](./solutions/Medium/0515-find-largest-value-in-each-tree-row/solution.java) |
