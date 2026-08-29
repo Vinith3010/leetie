@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 122 Solved
+## Progress Summary: 123 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -128,3 +128,4 @@
 | valid-boomerang | Valid Boomerang | Easy | java | [Problem](https://leetcode.com/problems/valid-boomerang/) | [Solution](./solutions/Easy/1037-valid-boomerang/solution.java) |
 | valid-mountain-array | Valid Mountain Array | Easy | java | [Problem](https://leetcode.com/problems/valid-mountain-array/) | [Solution](./solutions/Easy/0941-valid-mountain-array/solution.java) |
 | verifying-an-alien-dictionary | Verifying an Alien Dictionary | Easy | java | [Problem](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Solution](./solutions/Easy/0953-verifying-an-alien-dictionary/solution.java) |
+| xor-operation-in-an-array | XOR Operation in an Array | Easy | java | [Problem](https://leetcode.com/problems/xor-operation-in-an-array/) | [Solution](./solutions/Easy/1486-xor-operation-in-an-array/solution.java) |
