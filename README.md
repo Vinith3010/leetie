@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 81 Solved
+## Progress Summary: 82 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -44,6 +44,7 @@
 | lexicographical-numbers | Lexicographical Numbers | Medium | java | [Problem](https://leetcode.com/problems/lexicographical-numbers/) | [Solution](./solutions/Medium/0386-lexicographical-numbers/solution.java) |
 | lfu-cache | LFU Cache | Hard | java | [Problem](https://leetcode.com/problems/lfu-cache/) | [Solution](./solutions/Hard/0460-lfu-cache/solution.java) |
 | linked-list-random-node | Linked List Random Node | Medium | java | [Problem](https://leetcode.com/problems/linked-list-random-node/) | [Solution](./solutions/Medium/0382-linked-list-random-node/solution.java) |
+| lonely-pixel-i | Lonely Pixel I | Medium | java | [Problem](https://leetcode.com/problems/lonely-pixel-i/) | [Solution](./solutions/Medium/0531-lonely-pixel-i/solution.java) |
 | longest-palindromic-subsequence | Longest Palindromic Subsequence | Medium | java | [Problem](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Solution](./solutions/Medium/0516-longest-palindromic-subsequence/solution.java) |
 | longest-uncommon-subsequence-ii | Longest Uncommon Subsequence II | Medium | java | [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [Solution](./solutions/Medium/0522-longest-uncommon-subsequence-ii/solution.java) |
 | longest-word-in-dictionary-through-deleting | Longest Word in Dictionary through Deleting | Medium | java | [Problem](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [Solution](./solutions/Medium/0524-longest-word-in-dictionary-through-deleting/solution.java) |
