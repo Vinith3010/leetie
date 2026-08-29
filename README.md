@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 126 Solved
+## Progress Summary: 127 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -90,6 +90,7 @@
 | non-decreasing-subsequences | Non-decreasing Subsequences | Medium | java | [Problem](https://leetcode.com/problems/non-decreasing-subsequences/) | [Solution](./solutions/Medium/0491-non-decreasing-subsequences/solution.java) |
 | number-of-boomerangs | Number of Boomerangs | Medium | java | [Problem](https://leetcode.com/problems/number-of-boomerangs/) | [Solution](./solutions/Medium/0447-number-of-boomerangs/solution.java) |
 | number-of-days-between-two-dates | Number of Days Between Two Dates | Easy | java | [Problem](https://leetcode.com/problems/number-of-days-between-two-dates/) | [Solution](./solutions/Easy/1360-number-of-days-between-two-dates/solution.java) |
+| number-of-good-pairs | Number of Good Pairs | Easy | java | [Problem](https://leetcode.com/problems/number-of-good-pairs/) | [Solution](./solutions/Easy/1512-number-of-good-pairs/solution.java) |
 | number-of-students-doing-homework-at-a-given-time | Number of Students Doing Homework at a Given Time | Easy | java | [Problem](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [Solution](./solutions/Easy/1450-number-of-students-doing-homework-at-a-given-time/solution.java) |
 | ones-and-zeroes | Ones and Zeroes | Medium | java | [Problem](https://leetcode.com/problems/ones-and-zeroes/) | [Solution](./solutions/Medium/0474-ones-and-zeroes/solution.java) |
 | optimal-division | Optimal Division | Medium | java | [Problem](https://leetcode.com/problems/optimal-division/) | [Solution](./solutions/Medium/0553-optimal-division/solution.java) |
