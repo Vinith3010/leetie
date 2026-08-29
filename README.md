@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 73 Solved
+## Progress Summary: 74 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -14,6 +14,7 @@
 | binary-prefix-divisible-by-5 | Binary Prefix Divisible By 5 | Easy | java | [Problem](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Solution](./solutions/Easy/1018-binary-prefix-divisible-by-5/solution.java) |
 | binary-tree-level-order-traversal-ii | Binary Tree Level Order Traversal II | Medium | java | [Problem](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Solution](./solutions/Medium/0107-binary-tree-level-order-traversal-ii/solution.java) |
 | circular-array-loop | Circular Array Loop | Medium | java | [Problem](https://leetcode.com/problems/circular-array-loop/) | [Solution](./solutions/Medium/0457-circular-array-loop/solution.java) |
+| coin-change-ii | Coin Change II | Medium | java | [Problem](https://leetcode.com/problems/coin-change-ii/) | [Solution](./solutions/Medium/0518-coin-change-ii/solution.java) |
 | complement-of-base-10-integer | Complement of Base 10 Integer | Easy | java | [Problem](https://leetcode.com/problems/complement-of-base-10-integer/) | [Solution](./solutions/Easy/1009-complement-of-base-10-integer/solution.java) |
 | concatenated-words | Concatenated Words | Hard | java | [Problem](https://leetcode.com/problems/concatenated-words/) | [Solution](./solutions/Hard/0472-concatenated-words/solution.java) |
 | construct-binary-tree-from-inorder-and-postorder-traversal | Construct Binary Tree from Inorder and Postorder Traversal | Medium | java | [Problem](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Solution](./solutions/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/solution.java) |
