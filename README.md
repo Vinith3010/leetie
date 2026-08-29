@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 74 Solved
+## Progress Summary: 75 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -57,6 +57,7 @@
 | partition-array-into-three-parts-with-equal-sum | Partition Array Into Three Parts With Equal Sum | Easy | java | [Problem](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [Solution](./solutions/Easy/1013-partition-array-into-three-parts-with-equal-sum/solution.java) |
 | poor-pigs | Poor Pigs | Hard | java | [Problem](https://leetcode.com/problems/poor-pigs/) | [Solution](./solutions/Hard/0458-poor-pigs/solution.java) |
 | predict-the-winner | Predict the Winner | Medium | java | [Problem](https://leetcode.com/problems/predict-the-winner/) | [Solution](./solutions/Medium/0486-predict-the-winner/solution.java) |
+| random-flip-matrix | Random Flip Matrix | Medium | java | [Problem](https://leetcode.com/problems/random-flip-matrix/) | [Solution](./solutions/Medium/0519-random-flip-matrix/solution.java) |
 | random-point-in-non-overlapping-rectangles | Random Point in Non-overlapping Rectangles | Medium | java | [Problem](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [Solution](./solutions/Medium/0497-random-point-in-non-overlapping-rectangles/solution.java) |
 | remove-all-adjacent-duplicates-in-string | Remove All Adjacent Duplicates In String | Easy | java | [Problem](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Solution](./solutions/Easy/1047-remove-all-adjacent-duplicates-in-string/solution.java) |
 | remove-outermost-parentheses | Remove Outermost Parentheses | Easy | java | [Problem](https://leetcode.com/problems/remove-outermost-parentheses/) | [Solution](./solutions/Easy/1021-remove-outermost-parentheses/solution.java) |
