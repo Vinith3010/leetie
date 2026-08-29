@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 121 Solved
+## Progress Summary: 122 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -53,6 +53,7 @@
 | freedom-trail | Freedom Trail | Hard | java | [Problem](https://leetcode.com/problems/freedom-trail/) | [Solution](./solutions/Hard/0514-freedom-trail/solution.java) |
 | generate-a-string-with-characters-that-have-odd-counts | Generate a String With Characters That Have Odd Counts | Easy | java | [Problem](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [Solution](./solutions/Easy/1374-generate-a-string-with-characters-that-have-odd-counts/solution.java) |
 | generate-random-point-in-a-circle | Generate Random Point in a Circle | Medium | java | [Problem](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [Solution](./solutions/Medium/0478-generate-random-point-in-a-circle/solution.java) |
+| group-sold-products-by-the-date | Group Sold Products By The Date | Easy | mysql | [Problem](https://leetcode.com/problems/group-sold-products-by-the-date/) | [Solution](./solutions/Easy/1484-group-sold-products-by-the-date/solution.sql) |
 | heaters | Heaters | Medium | java | [Problem](https://leetcode.com/problems/heaters/) | [Solution](./solutions/Medium/0475-heaters/solution.java) |
 | increasing-decreasing-string | Increasing Decreasing String | Easy | java | [Problem](https://leetcode.com/problems/increasing-decreasing-string/) | [Solution](./solutions/Easy/1370-increasing-decreasing-string/solution.java) |
 | insert-delete-getrandom-o1 | Insert Delete GetRandom O(1) | Medium | java | [Problem](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](./solutions/Medium/0380-insert-delete-getrandom-o1/solution.java) |
