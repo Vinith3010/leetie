@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 85 Solved
+## Progress Summary: 86 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -22,6 +22,7 @@
 | construct-binary-tree-from-inorder-and-postorder-traversal | Construct Binary Tree from Inorder and Postorder Traversal | Medium | java | [Problem](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Solution](./solutions/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/solution.java) |
 | contiguous-array | Contiguous Array | Medium | java | [Problem](https://leetcode.com/problems/contiguous-array/) | [Solution](./solutions/Medium/0525-contiguous-array/solution.java) |
 | continuous-subarray-sum | Continuous Subarray Sum | Medium | java | [Problem](https://leetcode.com/problems/continuous-subarray-sum/) | [Solution](./solutions/Medium/0523-continuous-subarray-sum/solution.java) |
+| convert-bst-to-greater-tree | Convert BST to Greater Tree | Medium | java | [Problem](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Solution](./solutions/Medium/0538-convert-bst-to-greater-tree/solution.java) |
 | convert-sorted-list-to-binary-search-tree | Convert Sorted List to Binary Search Tree | Medium | java | [Problem](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Solution](./solutions/Medium/0109-convert-sorted-list-to-binary-search-tree/solution.java) |
 | cousins-in-binary-tree | Cousins in Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/cousins-in-binary-tree/) | [Solution](./solutions/Easy/0993-cousins-in-binary-tree/solution.java) |
 | delete-columns-to-make-sorted | Delete Columns to Make Sorted | Easy | java | [Problem](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [Solution](./solutions/Easy/0944-delete-columns-to-make-sorted/solution.java) |
