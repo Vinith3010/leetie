@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 110 Solved
+## Progress Summary: 111 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -73,6 +73,7 @@
 | minimum-moves-to-equal-array-elements | Minimum Moves to Equal Array Elements | Medium | java | [Problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Solution](./solutions/Medium/0453-minimum-moves-to-equal-array-elements/solution.java) |
 | minimum-subsequence-in-non-increasing-order | Minimum Subsequence in Non-Increasing Order | Easy | java | [Problem](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [Solution](./solutions/Easy/1403-minimum-subsequence-in-non-increasing-order/solution.java) |
 | minimum-time-difference | Minimum Time Difference | Medium | java | [Problem](https://leetcode.com/problems/minimum-time-difference/) | [Solution](./solutions/Medium/0539-minimum-time-difference/solution.java) |
+| minimum-value-to-get-positive-step-by-step-sum | Minimum Value to Get Positive Step by Step Sum | Easy | java | [Problem](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [Solution](./solutions/Easy/1413-minimum-value-to-get-positive-step-by-step-sum/solution.java) |
 | most-frequent-subtree-sum | Most Frequent Subtree Sum | Medium | java | [Problem](https://leetcode.com/problems/most-frequent-subtree-sum/) | [Solution](./solutions/Medium/0508-most-frequent-subtree-sum/solution.java) |
 | n-repeated-element-in-size-2n-array | N-Repeated Element in Size 2N Array | Easy | java | [Problem](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Solution](./solutions/Easy/0961-n-repeated-element-in-size-2n-array/solution.java) |
 | network-delay-time | Network Delay Time | Medium | java | [Problem](https://leetcode.com/problems/network-delay-time/) | [Solution](./solutions/Medium/0743-network-delay-time/solution.java) |
