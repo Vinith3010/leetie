@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 150 Solved
+## Progress Summary: 151 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -56,6 +56,7 @@
 | find-the-closest-palindrome | Find the Closest Palindrome | Hard | java | [Problem](https://leetcode.com/problems/find-the-closest-palindrome/) | [Solution](./solutions/Hard/0564-find-the-closest-palindrome/solution.java) |
 | find-the-distance-value-between-two-arrays | Find the Distance Value Between Two Arrays | Easy | java | [Problem](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [Solution](./solutions/Easy/1385-find-the-distance-value-between-two-arrays/solution.java) |
 | find-the-town-judge | Find the Town Judge | Easy | java | [Problem](https://leetcode.com/problems/find-the-town-judge/) | [Solution](./solutions/Easy/0997-find-the-town-judge/solution.java) |
+| flatten-a-multilevel-doubly-linked-list | Flatten a Multilevel Doubly Linked List | Medium | java | [Problem](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Solution](./solutions/Medium/0430-flatten-a-multilevel-doubly-linked-list/solution.java) |
 | fraction-addition-and-subtraction | Fraction Addition and Subtraction | Medium | java | [Problem](https://leetcode.com/problems/fraction-addition-and-subtraction/) | [Solution](./solutions/Medium/0592-fraction-addition-and-subtraction/solution.java) |
 | freedom-trail | Freedom Trail | Hard | java | [Problem](https://leetcode.com/problems/freedom-trail/) | [Solution](./solutions/Hard/0514-freedom-trail/solution.java) |
 | generate-a-string-with-characters-that-have-odd-counts | Generate a String With Characters That Have Odd Counts | Easy | java | [Problem](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [Solution](./solutions/Easy/1374-generate-a-string-with-characters-that-have-odd-counts/solution.java) |
