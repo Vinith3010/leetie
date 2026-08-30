@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 149 Solved
+## Progress Summary: 150 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -96,6 +96,7 @@
 | minimum-time-difference | Minimum Time Difference | Medium | java | [Problem](https://leetcode.com/problems/minimum-time-difference/) | [Solution](./solutions/Medium/0539-minimum-time-difference/solution.java) |
 | minimum-value-to-get-positive-step-by-step-sum | Minimum Value to Get Positive Step by Step Sum | Easy | java | [Problem](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [Solution](./solutions/Easy/1413-minimum-value-to-get-positive-step-by-step-sum/solution.java) |
 | most-frequent-subtree-sum | Most Frequent Subtree Sum | Medium | java | [Problem](https://leetcode.com/problems/most-frequent-subtree-sum/) | [Solution](./solutions/Medium/0508-most-frequent-subtree-sum/solution.java) |
+| n-ary-tree-level-order-traversal | N-ary Tree Level Order Traversal | Medium | java | [Problem](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [Solution](./solutions/Medium/0429-n-ary-tree-level-order-traversal/solution.java) |
 | n-repeated-element-in-size-2n-array | N-Repeated Element in Size 2N Array | Easy | java | [Problem](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Solution](./solutions/Easy/0961-n-repeated-element-in-size-2n-array/solution.java) |
 | network-delay-time | Network Delay Time | Medium | java | [Problem](https://leetcode.com/problems/network-delay-time/) | [Solution](./solutions/Medium/0743-network-delay-time/solution.java) |
 | next-greater-element-iii | Next Greater Element III | Medium | java | [Problem](https://leetcode.com/problems/next-greater-element-iii/) | [Solution](./solutions/Medium/0556-next-greater-element-iii/solution.java) |
