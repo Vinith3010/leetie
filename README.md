@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 142 Solved
+## Progress Summary: 143 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -109,6 +109,7 @@
 | poor-pigs | Poor Pigs | Hard | java | [Problem](https://leetcode.com/problems/poor-pigs/) | [Solution](./solutions/Hard/0458-poor-pigs/solution.java) |
 | predict-the-winner | Predict the Winner | Medium | java | [Problem](https://leetcode.com/problems/predict-the-winner/) | [Solution](./solutions/Medium/0486-predict-the-winner/solution.java) |
 | random-flip-matrix | Random Flip Matrix | Medium | java | [Problem](https://leetcode.com/problems/random-flip-matrix/) | [Solution](./solutions/Medium/0519-random-flip-matrix/solution.java) |
+| random-pick-index | Random Pick Index | Medium | java | [Problem](https://leetcode.com/problems/random-pick-index/) | [Solution](./solutions/Medium/0398-random-pick-index/solution.java) |
 | random-pick-with-weight | Random Pick with Weight | Medium | java | [Problem](https://leetcode.com/problems/random-pick-with-weight/) | [Solution](./solutions/Medium/0528-random-pick-with-weight/solution.java) |
 | random-point-in-non-overlapping-rectangles | Random Point in Non-overlapping Rectangles | Medium | java | [Problem](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [Solution](./solutions/Medium/0497-random-point-in-non-overlapping-rectangles/solution.java) |
 | reformat-date | Reformat Date | Easy | java | [Problem](https://leetcode.com/problems/reformat-date/) | [Solution](./solutions/Easy/1507-reformat-date/solution.java) |
