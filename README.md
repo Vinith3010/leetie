@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 136 Solved
+## Progress Summary: 137 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -46,6 +46,7 @@
 | find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree | Find a Corresponding Node of a Binary Tree in a Clone of That Tree | Easy | mysql | [Problem](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | [Solution](./solutions/Easy/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/solution.sql) |
 | find-bottom-left-tree-value | Find Bottom Left Tree Value | Medium | java | [Problem](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Solution](./solutions/Medium/0513-find-bottom-left-tree-value/solution.java) |
 | find-common-characters | Find Common Characters | Easy | java | [Problem](https://leetcode.com/problems/find-common-characters/) | [Solution](./solutions/Easy/1002-find-common-characters/solution.java) |
+| find-k-pairs-with-smallest-sums | Find K Pairs with Smallest Sums | Medium | java | [Problem](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Solution](./solutions/Medium/0373-find-k-pairs-with-smallest-sums/solution.java) |
 | find-largest-value-in-each-tree-row | Find Largest Value in Each Tree Row | Medium | java | [Problem](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Solution](./solutions/Medium/0515-find-largest-value-in-each-tree-row/solution.java) |
 | find-lucky-integer-in-an-array | Find Lucky Integer in an Array | Easy | java | [Problem](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [Solution](./solutions/Easy/1394-find-lucky-integer-in-an-array/solution.java) |
 | find-minimum-in-rotated-sorted-array | Find Minimum in Rotated Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](./solutions/Medium/0153-find-minimum-in-rotated-sorted-array/solution.java) |
