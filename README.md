@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 161 Solved
+## Progress Summary: 162 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -29,6 +29,7 @@
 | concatenated-words | Concatenated Words | Hard | java | [Problem](https://leetcode.com/problems/concatenated-words/) | [Solution](./solutions/Hard/0472-concatenated-words/solution.java) |
 | construct-binary-tree-from-inorder-and-postorder-traversal | Construct Binary Tree from Inorder and Postorder Traversal | Medium | java | [Problem](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Solution](./solutions/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/solution.java) |
 | construct-quad-tree | Construct Quad Tree | Medium | java | [Problem](https://leetcode.com/problems/construct-quad-tree/) | [Solution](./solutions/Medium/0427-construct-quad-tree/solution.java) |
+| construct-string-from-binary-tree | Construct String from Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/construct-string-from-binary-tree/) | [Solution](./solutions/Medium/0606-construct-string-from-binary-tree/solution.java) |
 | contiguous-array | Contiguous Array | Medium | java | [Problem](https://leetcode.com/problems/contiguous-array/) | [Solution](./solutions/Medium/0525-contiguous-array/solution.java) |
 | continuous-subarray-sum | Continuous Subarray Sum | Medium | java | [Problem](https://leetcode.com/problems/continuous-subarray-sum/) | [Solution](./solutions/Medium/0523-continuous-subarray-sum/solution.java) |
 | convert-bst-to-greater-tree | Convert BST to Greater Tree | Medium | java | [Problem](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Solution](./solutions/Medium/0538-convert-bst-to-greater-tree/solution.java) |
