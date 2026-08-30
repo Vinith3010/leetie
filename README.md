@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 153 Solved
+## Progress Summary: 154 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -95,6 +95,7 @@
 | maximum-score-after-splitting-a-string | Maximum Score After Splitting a String | Easy | java | [Problem](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Solution](./solutions/Easy/1422-maximum-score-after-splitting-a-string/solution.java) |
 | maximum-xor-of-two-numbers-in-an-array | Maximum XOR of Two Numbers in an Array | Medium | java | [Problem](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Solution](./solutions/Medium/0421-maximum-xor-of-two-numbers-in-an-array/solution.java) |
 | minimum-moves-to-equal-array-elements | Minimum Moves to Equal Array Elements | Medium | java | [Problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Solution](./solutions/Medium/0453-minimum-moves-to-equal-array-elements/solution.java) |
+| minimum-moves-to-equal-array-elements-ii | Minimum Moves to Equal Array Elements II | Medium | java | [Problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [Solution](./solutions/Medium/0462-minimum-moves-to-equal-array-elements-ii/solution.java) |
 | minimum-subsequence-in-non-increasing-order | Minimum Subsequence in Non-Increasing Order | Easy | java | [Problem](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [Solution](./solutions/Easy/1403-minimum-subsequence-in-non-increasing-order/solution.java) |
 | minimum-time-difference | Minimum Time Difference | Medium | java | [Problem](https://leetcode.com/problems/minimum-time-difference/) | [Solution](./solutions/Medium/0539-minimum-time-difference/solution.java) |
 | minimum-value-to-get-positive-step-by-step-sum | Minimum Value to Get Positive Step by Step Sum | Easy | java | [Problem](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [Solution](./solutions/Easy/1413-minimum-value-to-get-positive-step-by-step-sum/solution.java) |
