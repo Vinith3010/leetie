@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 138 Solved
+## Progress Summary: 139 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -143,4 +143,5 @@
 | valid-mountain-array | Valid Mountain Array | Easy | java | [Problem](https://leetcode.com/problems/valid-mountain-array/) | [Solution](./solutions/Easy/0941-valid-mountain-array/solution.java) |
 | verifying-an-alien-dictionary | Verifying an Alien Dictionary | Easy | java | [Problem](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Solution](./solutions/Easy/0953-verifying-an-alien-dictionary/solution.java) |
 | water-bottles | Water Bottles | Easy | java | [Problem](https://leetcode.com/problems/water-bottles/) | [Solution](./solutions/Easy/1518-water-bottles/solution.java) |
+| wiggle-subsequence | Wiggle Subsequence | Medium | java | [Problem](https://leetcode.com/problems/wiggle-subsequence/) | [Solution](./solutions/Medium/0376-wiggle-subsequence/solution.java) |
 | xor-operation-in-an-array | XOR Operation in an Array | Easy | java | [Problem](https://leetcode.com/problems/xor-operation-in-an-array/) | [Solution](./solutions/Easy/1486-xor-operation-in-an-array/solution.java) |
