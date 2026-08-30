@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 164 Solved
+## Progress Summary: 165 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -165,6 +165,7 @@
 | valid-boomerang | Valid Boomerang | Easy | java | [Problem](https://leetcode.com/problems/valid-boomerang/) | [Solution](./solutions/Easy/1037-valid-boomerang/solution.java) |
 | valid-mountain-array | Valid Mountain Array | Easy | java | [Problem](https://leetcode.com/problems/valid-mountain-array/) | [Solution](./solutions/Easy/0941-valid-mountain-array/solution.java) |
 | valid-square | Valid Square | Medium | java | [Problem](https://leetcode.com/problems/valid-square/) | [Solution](./solutions/Medium/0593-valid-square/solution.java) |
+| valid-triangle-number | Valid Triangle Number | Medium | java | [Problem](https://leetcode.com/problems/valid-triangle-number/) | [Solution](./solutions/Medium/0611-valid-triangle-number/solution.java) |
 | validate-ip-address | Validate IP Address | Medium | java | [Problem](https://leetcode.com/problems/validate-ip-address/) | [Solution](./solutions/Medium/0468-validate-ip-address/solution.java) |
 | verifying-an-alien-dictionary | Verifying an Alien Dictionary | Easy | java | [Problem](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Solution](./solutions/Easy/0953-verifying-an-alien-dictionary/solution.java) |
 | water-bottles | Water Bottles | Easy | java | [Problem](https://leetcode.com/problems/water-bottles/) | [Solution](./solutions/Easy/1518-water-bottles/solution.java) |
