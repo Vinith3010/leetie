@@ -3,24 +3,28 @@
 // Difficulty: Medium
 // Tags     : Array, Dynamic Programming, Knapsack Problem, 0-1 Knapsack
 // Link     : https://leetcode.com/problems/partition-equal-subset-sum/
-// Runtime  : 0 ms (beats 100%)
-// Memory   : 43176000 (beats 61%)
+// Runtime  : 31 ms (beats 82%)
+// Memory   : 43956000 (beats 77%)
 // Language : java
 // Copyright: (c) 2026 Vinith3010. All rights reserved.
 // Synced by: leetie
 // ──────────────────────────────────────────────────
 
 class Solution {
-    public int numberOfArithmeticSlices(int[] nums) {
-        int total = 0, dp = 0;
-        for (int i = 2; i < nums.length; i++) {
-            if (nums[i] - nums[i - 1] == nums[i - 1] - nums[i - 2]) {
-                dp += 1;
-                total += dp;
-            } else {
-                dp = 0;
+    public boolean canPartition(int[] nums) {
+        int sum = 0;
+        for (int num : nums) sum += num;
+        if (sum % 2 != 0) return false;
+
+        int target = sum / 2;
+        boolean[] dp = new boolean[target + 1];
+        dp[0] = true;
+
+        for (int num : nums) {
+            for (int i = target; i >= num; i--) {
+                dp[i] = dp[i] || dp[i - num];
             }
         }
-        return total;
+        return dp[target];
     }
 }
