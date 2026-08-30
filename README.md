@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 165 Solved
+## Progress Summary: 166 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -156,6 +156,7 @@
 | super-pow | Super Pow | Medium | java | [Problem](https://leetcode.com/problems/super-pow/) | [Solution](./solutions/Medium/0372-super-pow/solution.java) |
 | super-washing-machines | Super Washing Machines | Hard | java | [Problem](https://leetcode.com/problems/super-washing-machines/) | [Solution](./solutions/Hard/0517-super-washing-machines/solution.java) |
 | target-sum | Target Sum | Medium | java | [Problem](https://leetcode.com/problems/target-sum/) | [Solution](./solutions/Medium/0494-target-sum/solution.java) |
+| task-scheduler | Task Scheduler | Medium | java | [Problem](https://leetcode.com/problems/task-scheduler/) | [Solution](./solutions/Medium/0621-task-scheduler/solution.java) |
 | third-maximum-number | Third Maximum Number | Easy | java | [Problem](https://leetcode.com/problems/third-maximum-number/) | [Solution](./solutions/Easy/0414-third-maximum-number/solution.java) |
 | top-travellers | Top Travellers | Easy | mysql | [Problem](https://leetcode.com/problems/top-travellers/) | [Solution](./solutions/Easy/1407-top-travellers/solution.sql) |
 | total-hamming-distance | Total Hamming Distance | Medium | java | [Problem](https://leetcode.com/problems/total-hamming-distance/) | [Solution](./solutions/Medium/0477-total-hamming-distance/solution.java) |
