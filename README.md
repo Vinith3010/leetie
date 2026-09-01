@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 191 Solved
+## Progress Summary: 192 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -105,6 +105,7 @@
 | magical-string | Magical String | Medium | java | [Problem](https://leetcode.com/problems/magical-string/) | [Solution](./solutions/Medium/0481-magical-string/solution.java) |
 | make-the-string-great | Make The String Great | Easy | java | [Problem](https://leetcode.com/problems/make-the-string-great/) | [Solution](./solutions/Easy/1544-make-the-string-great/solution.java) |
 | make-two-arrays-equal-by-reversing-subarrays | Make Two Arrays Equal by Reversing Subarrays | Easy | java | [Problem](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/) | [Solution](./solutions/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/solution.java) |
+| map-sum-pairs | Map Sum Pairs | Medium | java | [Problem](https://leetcode.com/problems/map-sum-pairs/) | [Solution](./solutions/Medium/0677-map-sum-pairs/solution.java) |
 | matchsticks-to-square | Matchsticks to Square | Medium | java | [Problem](https://leetcode.com/problems/matchsticks-to-square/) | [Solution](./solutions/Medium/0473-matchsticks-to-square/solution.java) |
 | matrix-cells-in-distance-order | Matrix Cells in Distance Order | Easy | java | [Problem](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [Solution](./solutions/Easy/1030-matrix-cells-in-distance-order/solution.java) |
 | maximize-sum-of-array-after-k-negations | Maximize Sum Of Array After K Negations | Easy | java | [Problem](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | [Solution](./solutions/Easy/1005-maximize-sum-of-array-after-k-negations/solution.java) |
