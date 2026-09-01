@@ -4,7 +4,7 @@
 // Tags     : Depth-First Search, Breadth-First Search, Union-Find, Graph Theory
 // Link     : https://leetcode.com/problems/redundant-connection/
 // Runtime  : 1 ms (beats 92%)
-// Memory   : 44832000 (beats 82%)
+// Memory   : 44256000 (beats 100%)
 // Language : java
 // Copyright: (c) 2026 Vinith3010. All rights reserved.
 // Synced by: leetie
