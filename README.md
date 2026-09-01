@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 190 Solved
+## Progress Summary: 191 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -80,6 +80,7 @@
 | group-sold-products-by-the-date | Group Sold Products By The Date | Easy | mysql | [Problem](https://leetcode.com/problems/group-sold-products-by-the-date/) | [Solution](./solutions/Easy/1484-group-sold-products-by-the-date/solution.sql) |
 | guess-number-higher-or-lower-ii | Guess Number Higher or Lower II | Medium | java | [Problem](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [Solution](./solutions/Medium/0375-guess-number-higher-or-lower-ii/solution.java) |
 | heaters | Heaters | Medium | java | [Problem](https://leetcode.com/problems/heaters/) | [Solution](./solutions/Medium/0475-heaters/solution.java) |
+| implement-magic-dictionary | Implement Magic Dictionary | Medium | java | [Problem](https://leetcode.com/problems/implement-magic-dictionary/) | [Solution](./solutions/Medium/0676-implement-magic-dictionary/solution.java) |
 | implement-rand10-using-rand7 | Implement Rand10() Using Rand7() | Medium | java | [Problem](https://leetcode.com/problems/implement-rand10-using-rand7/) | [Solution](./solutions/Medium/0470-implement-rand10-using-rand7/solution.java) |
 | increasing-decreasing-string | Increasing Decreasing String | Easy | java | [Problem](https://leetcode.com/problems/increasing-decreasing-string/) | [Solution](./solutions/Easy/1370-increasing-decreasing-string/solution.java) |
 | insert-delete-getrandom-o1 | Insert Delete GetRandom O(1) | Medium | java | [Problem](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](./solutions/Medium/0380-insert-delete-getrandom-o1/solution.java) |
