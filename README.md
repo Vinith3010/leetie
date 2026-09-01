@@ -2,12 +2,13 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 193 Solved
+## Progress Summary: 194 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | 01-matrix | 01 Matrix | Medium | java | [Problem](https://leetcode.com/problems/01-matrix/) | [Solution](./solutions/Medium/0542-01-matrix/solution.java) |
 | 2-keys-keyboard | 2 Keys Keyboard | Medium | java | [Problem](https://leetcode.com/problems/2-keys-keyboard/) | [Solution](./solutions/Medium/0650-2-keys-keyboard/solution.java) |
+| 24-game | 24 Game | Hard | java | [Problem](https://leetcode.com/problems/24-game/) | [Solution](./solutions/Hard/0679-24-game/solution.java) |
 | 4sum-ii | 4Sum II | Medium | java | [Problem](https://leetcode.com/problems/4sum-ii/) | [Solution](./solutions/Medium/0454-4sum-ii/solution.java) |
 | add-one-row-to-tree | Add One Row to Tree | Medium | java | [Problem](https://leetcode.com/problems/add-one-row-to-tree/) | [Solution](./solutions/Medium/0623-add-one-row-to-tree/solution.java) |
 | add-to-array-form-of-integer | Add to Array-Form of Integer | Easy | java | [Problem](https://leetcode.com/problems/add-to-array-form-of-integer/) | [Solution](./solutions/Easy/0989-add-to-array-form-of-integer/solution.java) |
