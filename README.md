@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 189 Solved
+## Progress Summary: 190 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -44,6 +44,7 @@
 | count-odd-numbers-in-an-interval-range | Count Odd Numbers in an Interval Range | Easy | java | [Problem](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [Solution](./solutions/Easy/1523-count-odd-numbers-in-an-interval-range/solution.java) |
 | cousins-in-binary-tree | Cousins in Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/cousins-in-binary-tree/) | [Solution](./solutions/Easy/0993-cousins-in-binary-tree/solution.java) |
 | create-target-array-in-the-given-order | Create Target Array in the Given Order | Easy | java | [Problem](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [Solution](./solutions/Easy/1389-create-target-array-in-the-given-order/solution.java) |
+| cut-off-trees-for-golf-event | Cut Off Trees for Golf Event | Hard | java | [Problem](https://leetcode.com/problems/cut-off-trees-for-golf-event/) | [Solution](./solutions/Hard/0675-cut-off-trees-for-golf-event/solution.java) |
 | delete-columns-to-make-sorted | Delete Columns to Make Sorted | Easy | java | [Problem](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [Solution](./solutions/Easy/0944-delete-columns-to-make-sorted/solution.java) |
 | delete-operation-for-two-strings | Delete Operation for Two Strings | Medium | java | [Problem](https://leetcode.com/problems/delete-operation-for-two-strings/) | [Solution](./solutions/Medium/0583-delete-operation-for-two-strings/solution.java) |
 | design-circular-deque | Design Circular Deque | Medium | java | [Problem](https://leetcode.com/problems/design-circular-deque/) | [Solution](./solutions/Medium/0641-design-circular-deque/solution.java) |
