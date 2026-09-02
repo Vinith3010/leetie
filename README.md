@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 199 Solved
+## Progress Summary: 200 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -119,6 +119,7 @@
 | maximum-product-of-two-elements-in-an-array | Maximum Product of Two Elements in an Array | Easy | java | [Problem](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Solution](./solutions/Easy/1464-maximum-product-of-two-elements-in-an-array/solution.java) |
 | maximum-product-subarray | Maximum Product Subarray | Medium | java | [Problem](https://leetcode.com/problems/maximum-product-subarray/) | [Solution](./solutions/Medium/0152-maximum-product-subarray/solution.java) |
 | maximum-score-after-splitting-a-string | Maximum Score After Splitting a String | Easy | java | [Problem](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Solution](./solutions/Easy/1422-maximum-score-after-splitting-a-string/solution.java) |
+| maximum-subarray | Maximum Subarray | Medium | java | [Problem](https://leetcode.com/problems/maximum-subarray/) | [Solution](./solutions/Medium/0053-maximum-subarray/solution.java) |
 | maximum-swap | Maximum Swap | Medium | java | [Problem](https://leetcode.com/problems/maximum-swap/) | [Solution](./solutions/Medium/0670-maximum-swap/solution.java) |
 | maximum-width-of-binary-tree | Maximum Width of Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [Solution](./solutions/Medium/0662-maximum-width-of-binary-tree/solution.java) |
 | maximum-xor-of-two-numbers-in-an-array | Maximum XOR of Two Numbers in an Array | Medium | java | [Problem](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Solution](./solutions/Medium/0421-maximum-xor-of-two-numbers-in-an-array/solution.java) |
