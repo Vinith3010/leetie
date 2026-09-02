@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 204 Solved
+## Progress Summary: 205 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -166,6 +166,7 @@
 | remove-outermost-parentheses | Remove Outermost Parentheses | Easy | java | [Problem](https://leetcode.com/problems/remove-outermost-parentheses/) | [Solution](./solutions/Easy/1021-remove-outermost-parentheses/solution.java) |
 | replace-words | Replace Words | Medium | java | [Problem](https://leetcode.com/problems/replace-words/) | [Solution](./solutions/Medium/0648-replace-words/solution.java) |
 | reverse-pairs | Reverse Pairs | Hard | java | [Problem](https://leetcode.com/problems/reverse-pairs/) | [Solution](./solutions/Hard/0493-reverse-pairs/solution.java) |
+| rotate-image | Rotate Image | Medium | java | [Problem](https://leetcode.com/problems/rotate-image/) | [Solution](./solutions/Medium/0048-rotate-image/solution.java) |
 | running-sum-of-1d-array | Running Sum of 1d Array | Easy | java | [Problem](https://leetcode.com/problems/running-sum-of-1d-array/) | [Solution](./solutions/Easy/1480-running-sum-of-1d-array/solution.java) |
 | serialize-and-deserialize-bst | Serialize and Deserialize BST | Medium | java | [Problem](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [Solution](./solutions/Medium/0449-serialize-and-deserialize-bst/solution.java) |
 | set-matrix-zeroes | Set Matrix Zeroes | Medium | java | [Problem](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](./solutions/Medium/0073-set-matrix-zeroes/solution.java) |
