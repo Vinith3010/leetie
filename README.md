@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 197 Solved
+## Progress Summary: 198 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -171,6 +171,7 @@
 | smallest-missing-multiple-of-k | Smallest Missing Multiple of K | Easy | java | [Problem](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | [Solution](./solutions/Easy/3718-smallest-missing-multiple-of-k/solution.java) |
 | solve-the-equation | Solve the Equation | Medium | java | [Problem](https://leetcode.com/problems/solve-the-equation/) | [Solution](./solutions/Medium/0640-solve-the-equation/solution.java) |
 | sort-characters-by-frequency | Sort Characters By Frequency | Medium | java | [Problem](https://leetcode.com/problems/sort-characters-by-frequency/) | [Solution](./solutions/Medium/0451-sort-characters-by-frequency/solution.java) |
+| sort-colors | Sort Colors | Medium | java | [Problem](https://leetcode.com/problems/sort-colors/) | [Solution](./solutions/Medium/0075-sort-colors/solution.java) |
 | sort-integers-by-the-number-of-1-bits | Sort Integers by The Number of 1 Bits | Easy | java | [Problem](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [Solution](./solutions/Easy/1356-sort-integers-by-the-number-of-1-bits/solution.java) |
 | sort-list | Sort List | Medium | java | [Problem](https://leetcode.com/problems/sort-list/) | [Solution](./solutions/Medium/0148-sort-list/solution.java) |
 | spiral-matrix-ii | Spiral Matrix II | Medium | java | [Problem](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution](./solutions/Medium/0059-spiral-matrix-ii/solution.java) |
