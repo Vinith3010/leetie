@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 222 Solved
+## Progress Summary: 223 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -139,6 +139,7 @@
 | minimum-subsequence-in-non-increasing-order | Minimum Subsequence in Non-Increasing Order | Easy | java | [Problem](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [Solution](./solutions/Easy/1403-minimum-subsequence-in-non-increasing-order/solution.java) |
 | minimum-time-difference | Minimum Time Difference | Medium | java | [Problem](https://leetcode.com/problems/minimum-time-difference/) | [Solution](./solutions/Medium/0539-minimum-time-difference/solution.java) |
 | minimum-value-to-get-positive-step-by-step-sum | Minimum Value to Get Positive Step by Step Sum | Easy | java | [Problem](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [Solution](./solutions/Easy/1413-minimum-value-to-get-positive-step-by-step-sum/solution.java) |
+| monotone-increasing-digits | Monotone Increasing Digits | Medium | java | [Problem](https://leetcode.com/problems/monotone-increasing-digits/) | [Solution](./solutions/Medium/0738-monotone-increasing-digits/solution.java) |
 | most-frequent-subtree-sum | Most Frequent Subtree Sum | Medium | java | [Problem](https://leetcode.com/problems/most-frequent-subtree-sum/) | [Solution](./solutions/Medium/0508-most-frequent-subtree-sum/solution.java) |
 | my-calendar-i | My Calendar I | Medium | java | [Problem](https://leetcode.com/problems/my-calendar-i/) | [Solution](./solutions/Medium/0729-my-calendar-i/solution.java) |
 | my-calendar-ii | My Calendar II | Medium | java | [Problem](https://leetcode.com/problems/my-calendar-ii/) | [Solution](./solutions/Medium/0731-my-calendar-ii/solution.java) |
