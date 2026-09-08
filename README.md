@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 215 Solved
+## Progress Summary: 216 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -123,6 +123,7 @@
 | maximum-binary-tree | Maximum Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/maximum-binary-tree/) | [Solution](./solutions/Medium/0654-maximum-binary-tree/solution.java) |
 | maximum-distance-in-arrays | Maximum Distance in Arrays | Medium | java | [Problem](https://leetcode.com/problems/maximum-distance-in-arrays/) | [Solution](./solutions/Medium/0624-maximum-distance-in-arrays/solution.java) |
 | maximum-length-of-pair-chain | Maximum Length of Pair Chain | Medium | java | [Problem](https://leetcode.com/problems/maximum-length-of-pair-chain/) | [Solution](./solutions/Medium/0646-maximum-length-of-pair-chain/solution.java) |
+| maximum-length-of-repeated-subarray | Maximum Length of Repeated Subarray | Medium | java | [Problem](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [Solution](./solutions/Medium/0718-maximum-length-of-repeated-subarray/solution.java) |
 | maximum-product-of-two-elements-in-an-array | Maximum Product of Two Elements in an Array | Easy | java | [Problem](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Solution](./solutions/Easy/1464-maximum-product-of-two-elements-in-an-array/solution.java) |
 | maximum-product-subarray | Maximum Product Subarray | Medium | java | [Problem](https://leetcode.com/problems/maximum-product-subarray/) | [Solution](./solutions/Medium/0152-maximum-product-subarray/solution.java) |
 | maximum-score-after-splitting-a-string | Maximum Score After Splitting a String | Easy | java | [Problem](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Solution](./solutions/Easy/1422-maximum-score-after-splitting-a-string/solution.java) |
