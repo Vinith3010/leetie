@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 205 Solved
+## Progress Summary: 206 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -164,6 +164,7 @@
 | reformat-the-string | Reformat The String | Easy | java | [Problem](https://leetcode.com/problems/reformat-the-string/) | [Solution](./solutions/Easy/1417-reformat-the-string/solution.java) |
 | remove-all-adjacent-duplicates-in-string | Remove All Adjacent Duplicates In String | Easy | java | [Problem](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Solution](./solutions/Easy/1047-remove-all-adjacent-duplicates-in-string/solution.java) |
 | remove-outermost-parentheses | Remove Outermost Parentheses | Easy | java | [Problem](https://leetcode.com/problems/remove-outermost-parentheses/) | [Solution](./solutions/Easy/1021-remove-outermost-parentheses/solution.java) |
+| repeated-string-match | Repeated String Match | Medium | java | [Problem](https://leetcode.com/problems/repeated-string-match/) | [Solution](./solutions/Medium/0686-repeated-string-match/solution.java) |
 | replace-words | Replace Words | Medium | java | [Problem](https://leetcode.com/problems/replace-words/) | [Solution](./solutions/Medium/0648-replace-words/solution.java) |
 | reverse-pairs | Reverse Pairs | Hard | java | [Problem](https://leetcode.com/problems/reverse-pairs/) | [Solution](./solutions/Hard/0493-reverse-pairs/solution.java) |
 | rotate-image | Rotate Image | Medium | java | [Problem](https://leetcode.com/problems/rotate-image/) | [Solution](./solutions/Medium/0048-rotate-image/solution.java) |
