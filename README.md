@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 206 Solved
+## Progress Summary: 207 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -104,6 +104,7 @@
 | lonely-pixel-i | Lonely Pixel I | Medium | java | [Problem](https://leetcode.com/problems/lonely-pixel-i/) | [Solution](./solutions/Medium/0531-lonely-pixel-i/solution.java) |
 | longest-palindromic-subsequence | Longest Palindromic Subsequence | Medium | java | [Problem](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Solution](./solutions/Medium/0516-longest-palindromic-subsequence/solution.java) |
 | longest-uncommon-subsequence-ii | Longest Uncommon Subsequence II | Medium | java | [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [Solution](./solutions/Medium/0522-longest-uncommon-subsequence-ii/solution.java) |
+| longest-univalue-path | Longest Univalue Path | Medium | java | [Problem](https://leetcode.com/problems/longest-univalue-path/) | [Solution](./solutions/Medium/0687-longest-univalue-path/solution.java) |
 | longest-word-in-dictionary-through-deleting | Longest Word in Dictionary through Deleting | Medium | java | [Problem](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [Solution](./solutions/Medium/0524-longest-word-in-dictionary-through-deleting/solution.java) |
 | lucky-numbers-in-a-matrix | Lucky Numbers in a Matrix | Easy | java | [Problem](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Solution](./solutions/Easy/1380-lucky-numbers-in-a-matrix/solution.java) |
 | magical-string | Magical String | Medium | java | [Problem](https://leetcode.com/problems/magical-string/) | [Solution](./solutions/Medium/0481-magical-string/solution.java) |
