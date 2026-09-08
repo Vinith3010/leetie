@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 224 Solved
+## Progress Summary: 225 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -157,6 +157,7 @@
 | number-of-longest-increasing-subsequence | Number of Longest Increasing Subsequence | Medium | java | [Problem](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | [Solution](./solutions/Medium/0673-number-of-longest-increasing-subsequence/solution.java) |
 | number-of-students-doing-homework-at-a-given-time | Number of Students Doing Homework at a Given Time | Easy | java | [Problem](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [Solution](./solutions/Easy/1450-number-of-students-doing-homework-at-a-given-time/solution.java) |
 | ones-and-zeroes | Ones and Zeroes | Medium | java | [Problem](https://leetcode.com/problems/ones-and-zeroes/) | [Solution](./solutions/Medium/0474-ones-and-zeroes/solution.java) |
+| open-the-lock | Open the Lock | Medium | java | [Problem](https://leetcode.com/problems/open-the-lock/) | [Solution](./solutions/Medium/0752-open-the-lock/solution.java) |
 | optimal-division | Optimal Division | Medium | java | [Problem](https://leetcode.com/problems/optimal-division/) | [Solution](./solutions/Medium/0553-optimal-division/solution.java) |
 | pacific-atlantic-water-flow | Pacific Atlantic Water Flow | Medium | java | [Problem](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Solution](./solutions/Medium/0417-pacific-atlantic-water-flow/solution.java) |
 | palindromic-substrings | Palindromic Substrings | Medium | java | [Problem](https://leetcode.com/problems/palindromic-substrings/) | [Solution](./solutions/Medium/0647-palindromic-substrings/solution.java) |
