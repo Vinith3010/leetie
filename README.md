@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 227 Solved
+## Progress Summary: 228 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -163,6 +163,7 @@
 | palindromic-substrings | Palindromic Substrings | Medium | java | [Problem](https://leetcode.com/problems/palindromic-substrings/) | [Solution](./solutions/Medium/0647-palindromic-substrings/solution.java) |
 | partition-array-into-three-parts-with-equal-sum | Partition Array Into Three Parts With Equal Sum | Easy | java | [Problem](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [Solution](./solutions/Easy/1013-partition-array-into-three-parts-with-equal-sum/solution.java) |
 | partition-equal-subset-sum | Partition Equal Subset Sum | Medium | java | [Problem](https://leetcode.com/problems/partition-equal-subset-sum/) | [Solution](./solutions/Medium/0416-partition-equal-subset-sum/solution.java) |
+| partition-labels | Partition Labels | Medium | java | [Problem](https://leetcode.com/problems/partition-labels/) | [Solution](./solutions/Medium/0763-partition-labels/solution.java) |
 | partition-to-k-equal-sum-subsets | Partition to K Equal Sum Subsets | Medium | java | [Problem](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | [Solution](./solutions/Medium/0698-partition-to-k-equal-sum-subsets/solution.java) |
 | path-crossing | Path Crossing | Easy | java | [Problem](https://leetcode.com/problems/path-crossing/) | [Solution](./solutions/Easy/1496-path-crossing/solution.java) |
 | patients-with-a-condition | Patients With a Condition | Easy | mysql | [Problem](https://leetcode.com/problems/patients-with-a-condition/) | [Solution](./solutions/Easy/1527-patients-with-a-condition/solution.sql) |
