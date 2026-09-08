@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 240 Solved
+## Progress Summary: 241 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -47,6 +47,7 @@
 | count-odd-numbers-in-an-interval-range | Count Odd Numbers in an Interval Range | Easy | java | [Problem](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [Solution](./solutions/Easy/1523-count-odd-numbers-in-an-interval-range/solution.java) |
 | cousins-in-binary-tree | Cousins in Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/cousins-in-binary-tree/) | [Solution](./solutions/Easy/0993-cousins-in-binary-tree/solution.java) |
 | create-target-array-in-the-given-order | Create Target Array in the Given Order | Easy | java | [Problem](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [Solution](./solutions/Easy/1389-create-target-array-in-the-given-order/solution.java) |
+| custom-sort-string | Custom Sort String | Medium | java | [Problem](https://leetcode.com/problems/custom-sort-string/) | [Solution](./solutions/Medium/0791-custom-sort-string/solution.java) |
 | cut-off-trees-for-golf-event | Cut Off Trees for Golf Event | Hard | java | [Problem](https://leetcode.com/problems/cut-off-trees-for-golf-event/) | [Solution](./solutions/Hard/0675-cut-off-trees-for-golf-event/solution.java) |
 | delete-and-earn | Delete and Earn | Medium | java | [Problem](https://leetcode.com/problems/delete-and-earn/) | [Solution](./solutions/Medium/0740-delete-and-earn/solution.java) |
 | delete-columns-to-make-sorted | Delete Columns to Make Sorted | Easy | java | [Problem](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [Solution](./solutions/Easy/0944-delete-columns-to-make-sorted/solution.java) |
