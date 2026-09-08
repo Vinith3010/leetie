@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 230 Solved
+## Progress Summary: 231 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -123,6 +123,7 @@
 | matchsticks-to-square | Matchsticks to Square | Medium | java | [Problem](https://leetcode.com/problems/matchsticks-to-square/) | [Solution](./solutions/Medium/0473-matchsticks-to-square/solution.java) |
 | matrix-cells-in-distance-order | Matrix Cells in Distance Order | Easy | java | [Problem](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [Solution](./solutions/Easy/1030-matrix-cells-in-distance-order/solution.java) |
 | max-area-of-island | Max Area of Island | Medium | java | [Problem](https://leetcode.com/problems/max-area-of-island/) | [Solution](./solutions/Medium/0695-max-area-of-island/solution.java) |
+| max-chunks-to-make-sorted | Max Chunks To Make Sorted | Medium | java | [Problem](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [Solution](./solutions/Medium/0769-max-chunks-to-make-sorted/solution.java) |
 | maximize-sum-of-array-after-k-negations | Maximize Sum Of Array After K Negations | Easy | java | [Problem](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | [Solution](./solutions/Easy/1005-maximize-sum-of-array-after-k-negations/solution.java) |
 | maximum-binary-tree | Maximum Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/maximum-binary-tree/) | [Solution](./solutions/Medium/0654-maximum-binary-tree/solution.java) |
 | maximum-distance-in-arrays | Maximum Distance in Arrays | Medium | java | [Problem](https://leetcode.com/problems/maximum-distance-in-arrays/) | [Solution](./solutions/Medium/0624-maximum-distance-in-arrays/solution.java) |
