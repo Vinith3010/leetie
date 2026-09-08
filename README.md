@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 234 Solved
+## Progress Summary: 235 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -176,6 +176,7 @@
 | print-binary-tree | Print Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/print-binary-tree/) | [Solution](./solutions/Medium/0655-print-binary-tree/solution.java) |
 | pyramid-transition-matrix | Pyramid Transition Matrix | Medium | java | [Problem](https://leetcode.com/problems/pyramid-transition-matrix/) | [Solution](./solutions/Medium/0756-pyramid-transition-matrix/solution.java) |
 | queue-reconstruction-by-height | Queue Reconstruction by Height | Medium | java | [Problem](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Solution](./solutions/Medium/0406-queue-reconstruction-by-height/solution.java) |
+| rabbits-in-forest | Rabbits in Forest | Medium | java | [Problem](https://leetcode.com/problems/rabbits-in-forest/) | [Solution](./solutions/Medium/0781-rabbits-in-forest/solution.java) |
 | random-flip-matrix | Random Flip Matrix | Medium | java | [Problem](https://leetcode.com/problems/random-flip-matrix/) | [Solution](./solutions/Medium/0519-random-flip-matrix/solution.java) |
 | random-pick-index | Random Pick Index | Medium | java | [Problem](https://leetcode.com/problems/random-pick-index/) | [Solution](./solutions/Medium/0398-random-pick-index/solution.java) |
 | random-pick-with-weight | Random Pick with Weight | Medium | java | [Problem](https://leetcode.com/problems/random-pick-with-weight/) | [Solution](./solutions/Medium/0528-random-pick-with-weight/solution.java) |
