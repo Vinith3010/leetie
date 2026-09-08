@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 218 Solved
+## Progress Summary: 219 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -174,6 +174,7 @@
 | reformat-date | Reformat Date | Easy | java | [Problem](https://leetcode.com/problems/reformat-date/) | [Solution](./solutions/Easy/1507-reformat-date/solution.java) |
 | reformat-the-string | Reformat The String | Easy | java | [Problem](https://leetcode.com/problems/reformat-the-string/) | [Solution](./solutions/Easy/1417-reformat-the-string/solution.java) |
 | remove-all-adjacent-duplicates-in-string | Remove All Adjacent Duplicates In String | Easy | java | [Problem](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Solution](./solutions/Easy/1047-remove-all-adjacent-duplicates-in-string/solution.java) |
+| remove-comments | Remove Comments | Medium | java | [Problem](https://leetcode.com/problems/remove-comments/) | [Solution](./solutions/Medium/0722-remove-comments/solution.java) |
 | remove-outermost-parentheses | Remove Outermost Parentheses | Easy | java | [Problem](https://leetcode.com/problems/remove-outermost-parentheses/) | [Solution](./solutions/Easy/1021-remove-outermost-parentheses/solution.java) |
 | repeated-string-match | Repeated String Match | Medium | java | [Problem](https://leetcode.com/problems/repeated-string-match/) | [Solution](./solutions/Medium/0686-repeated-string-match/solution.java) |
 | replace-words | Replace Words | Medium | java | [Problem](https://leetcode.com/problems/replace-words/) | [Solution](./solutions/Medium/0648-replace-words/solution.java) |
