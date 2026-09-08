@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 231 Solved
+## Progress Summary: 232 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -83,6 +83,7 @@
 | friend-requests-ii-who-has-the-most-friends | Friend Requests II: Who Has the Most Friends | Medium | mysql | [Problem](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | [Solution](./solutions/Medium/0602-friend-requests-ii-who-has-the-most-friends/solution.sql) |
 | generate-a-string-with-characters-that-have-odd-counts | Generate a String With Characters That Have Odd Counts | Easy | java | [Problem](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [Solution](./solutions/Easy/1374-generate-a-string-with-characters-that-have-odd-counts/solution.java) |
 | generate-random-point-in-a-circle | Generate Random Point in a Circle | Medium | java | [Problem](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [Solution](./solutions/Medium/0478-generate-random-point-in-a-circle/solution.java) |
+| global-and-local-inversions | Global and Local Inversions | Medium | java | [Problem](https://leetcode.com/problems/global-and-local-inversions/) | [Solution](./solutions/Medium/0775-global-and-local-inversions/solution.java) |
 | greatest-common-divisor-of-strings | Greatest Common Divisor of Strings | Easy | java | [Problem](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [Solution](./solutions/Easy/1071-greatest-common-divisor-of-strings/solution.java) |
 | group-sold-products-by-the-date | Group Sold Products By The Date | Easy | mysql | [Problem](https://leetcode.com/problems/group-sold-products-by-the-date/) | [Solution](./solutions/Easy/1484-group-sold-products-by-the-date/solution.sql) |
 | guess-number-higher-or-lower-ii | Guess Number Higher or Lower II | Medium | java | [Problem](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [Solution](./solutions/Medium/0375-guess-number-higher-or-lower-ii/solution.java) |
