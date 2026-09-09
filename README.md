@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 241 Solved
+## Progress Summary: 242 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -214,6 +214,7 @@
 | sort-colors | Sort Colors | Medium | java | [Problem](https://leetcode.com/problems/sort-colors/) | [Solution](./solutions/Medium/0075-sort-colors/solution.java) |
 | sort-integers-by-the-number-of-1-bits | Sort Integers by The Number of 1 Bits | Easy | java | [Problem](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [Solution](./solutions/Easy/1356-sort-integers-by-the-number-of-1-bits/solution.java) |
 | sort-list | Sort List | Medium | java | [Problem](https://leetcode.com/problems/sort-list/) | [Solution](./solutions/Medium/0148-sort-list/solution.java) |
+| spiral-matrix | Spiral Matrix | Medium | java | [Problem](https://leetcode.com/problems/spiral-matrix/) | [Solution](./solutions/Medium/0054-spiral-matrix/solution.java) |
 | spiral-matrix-ii | Spiral Matrix II | Medium | java | [Problem](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution](./solutions/Medium/0059-spiral-matrix-ii/solution.java) |
 | split-array-into-consecutive-subsequences | Split Array into Consecutive Subsequences | Medium | java | [Problem](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [Solution](./solutions/Medium/0659-split-array-into-consecutive-subsequences/solution.java) |
 | split-linked-list-in-parts | Split Linked List in Parts | Medium | java | [Problem](https://leetcode.com/problems/split-linked-list-in-parts/) | [Solution](./solutions/Medium/0725-split-linked-list-in-parts/solution.java) |
