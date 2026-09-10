@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 243 Solved
+## Progress Summary: 244 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -223,6 +223,7 @@
 | student-attendance-record-ii | Student Attendance Record II | Hard | java | [Problem](https://leetcode.com/problems/student-attendance-record-ii/) | [Solution](./solutions/Hard/0552-student-attendance-record-ii/solution.java) |
 | students-and-examinations | Students and Examinations | Easy | mysql | [Problem](https://leetcode.com/problems/students-and-examinations/) | [Solution](./solutions/Easy/1280-students-and-examinations/solution.sql) |
 | subarray-sum-equals-k | Subarray Sum Equals K | Medium | java | [Problem](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](./solutions/Medium/0560-subarray-sum-equals-k/solution.java) |
+| subtract-the-product-and-sum-of-digits-of-an-integer | Subtract the Product and Sum of Digits of an Integer | Easy | java | [Problem](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Solution](./solutions/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/solution.java) |
 | sum-of-left-leaves | Sum of Left Leaves | Easy | java | [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution](./solutions/Easy/0404-sum-of-left-leaves/solution.java) |
 | sum-of-root-to-leaf-binary-numbers | Sum of Root To Leaf Binary Numbers | Easy | java | [Problem](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Solution](./solutions/Easy/1022-sum-of-root-to-leaf-binary-numbers/solution.java) |
 | sum-of-square-numbers | Sum of Square Numbers | Medium | mysql | [Problem](https://leetcode.com/problems/sum-of-square-numbers/) | [Solution](./solutions/Medium/0633-sum-of-square-numbers/solution.sql) |
